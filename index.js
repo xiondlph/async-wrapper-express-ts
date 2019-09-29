@@ -12,6 +12,8 @@
  *
  * @param {Function} fn The Express function to wrap
  * @returns {Function} The wrapped function
+ * @see {@link https://strongloop.com/strongblog/async-error-handling-expressjs-es7-promises-generators/#usinges7asyncawait}
+ *
  * @example
  *
  * ```ts
