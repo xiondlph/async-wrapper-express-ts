@@ -1,4 +1,9 @@
 /**
+ * async-wrapper-express-ts
+ * Copyright(c) 2019 Shukhrat Ismailov <shukhrat@ismax.ru>
+ * MIT Licensed
+ *
+ *
  * Wrapper for async express route for properly catches thrown exceptions
  *
  * Wraps the express route in a function that passes the `next` method

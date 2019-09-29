@@ -23,5 +23,8 @@
   "homepage": "https://github.com/xiondlph/async-wrapper-express-ts#readme",
   "devDependencies": {
     "ava": "^2.4.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
