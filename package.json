@@ -1,0 +1,27 @@
+{
+  "name": "async-wrapper-express-ts",
+  "version": "1.0.0",
+  "description": "A simple function for Typescript sources to wrap async Express route",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiondlph/async-wrapper-express-ts.git"
+  },
+  "keywords": [
+    "async",
+    "express",
+    "typescript"
+  ],
+  "author": "Shukhrat Ismailov <shukhrat@ismax.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiondlph/async-wrapper-express-ts/issues"
+  },
+  "homepage": "https://github.com/xiondlph/async-wrapper-express-ts#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
