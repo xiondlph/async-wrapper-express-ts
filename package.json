@@ -4,7 +4,7 @@
   "description": "A simple function for Typescript sources to wrap async Express route",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "nyc ava"
   },
   "repository": {
     "type": "git",
