@@ -17,6 +17,7 @@
  * app.get('/foo', asyncWrapper(someAsyncRouteFunction))
  * ```
  */
+'use strict';
 
 module.exports = (fn) => {
     return (req, res, next) => {
