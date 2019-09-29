@@ -3,7 +3,7 @@ os:
   - windows
   - linux
 node_js:
-  - 9
+  - 12
 branches:
   only:
     - master
