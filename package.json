@@ -1,6 +1,6 @@
 {
   "name": "async-wrapper-express-ts",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "A simple function for Typescript sources to wrap async Express route",
   "main": "index.js",
   "scripts": {
