@@ -1,8 +1,8 @@
-import test from 'ava';
-import asyncWrapper from "./index";
+const test = require("ava");
+const asyncWrapper = require("./index");
 
-test('should wrap provided function and catch any exceptions', t => {
-    const error = new Error('Some exception');
+test("should wrap provided function and catch any exceptions", t => {
+    const error = new Error("Some exception");
 
     return asyncWrapper(
         async () => {
